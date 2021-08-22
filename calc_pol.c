@@ -130,7 +130,7 @@ void calcular(char *expressao){ //função calcular que vai receber uma string q
 
 
 int main(){
-    //alguns exemplos
+    //alguns exemplos usados
     calcular("12+53-*"); 
     imprimir();
     remover(); //usado para zerar a pilha e fazer uma nova operação 
